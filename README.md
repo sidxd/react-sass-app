@@ -4,7 +4,7 @@ Includes [normalize](https://necolas.github.io/normalize.css/) as a reset. Repos
 
 ### Installation
 
-    npm i create-sass-app
+    git clone https://github.com/sidxd/react-sass-app.git
 
 ### Links
 
