@@ -1,0 +1,12 @@
+# React setup with SASS.
+
+Includes [normalize](https://necolas.github.io/normalize.css/) as a reset. Repository [here](https://github.com/sidxd/create-sass-app).
+
+### Installation
+
+    npm i create-sass-app
+
+### Links
+
+* [https://reactjs.org/](https://reactjs.org/)
+* [https://sass-lang.com/](https://sass-lang.com/)# react-sass-template
